@@ -8,5 +8,10 @@
 <body>
   <h1>Hello World!</h1>
   <p>Lorem, ipsum dolor.</p>
+  <ul>
+    <li>Muhammad</li>
+    <li>Hilal</li>
+    <li>Ramadhan</li>
+  </ul>
 </body>
 </html>
